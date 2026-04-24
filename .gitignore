@@ -1,0 +1,6 @@
+fwc/
+__pycache__/
+*.pyc
+vosk-model/
+*.pt
+*.bin
