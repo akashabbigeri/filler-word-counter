@@ -71,15 +71,6 @@ Filler words are only counted from **finalised** transcript segments to avoid do
 
 ---
 
-## Bonus: Hindi "Arey" Detection
-
-`arey_variants.py` is a separate test script for detecting the Hindi filler word **"arey/aray"**. Because Whisper maps it inconsistently across languages (English, Japanese, Hindi script), run this script to observe how your voice is transcribed and tune the patterns accordingly.
-
-```bash
-python arey_variants.py
-```
-
----
 
 ## Configuration
 
