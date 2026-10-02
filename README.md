@@ -1,5 +1,7 @@
 # Filler Word Counter
 
+Made this when I was bored listening to my chinese professor in a lecture. hehe
+
 Real-time filler word detector using your microphone. Counts **uh, um, ah, er, okay** as you speak — live, offline, no playback needed.
 
 Built with [faster-whisper](https://github.com/SYSTRAN/faster-whisper) for speech recognition and [Rich](https://github.com/Textualize/rich) for the terminal display.
